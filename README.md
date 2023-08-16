@@ -1,5 +1,10 @@
 # Chain-of-thought
-Summarize and classify related papers about CoT
+Summarize and classify related papers about CoT.
+
+## Original work on CoT:
+- First release time: 28 Jan 2022
+- Title: Chain-of-Thought Prompting Elicits Reasoning in Large Language Models
+- Conference: NeurIPS 2022
 
 ## Content
 - [Related Surveys](https://github.com/Alab-NII/chain-of-thought/blob/main/README.md#related-surveys)
