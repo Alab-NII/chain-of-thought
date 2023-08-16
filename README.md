@@ -1,7 +1,14 @@
 # Chain-of-thought
 Summarize and classify related papers about CoT
 
-## Related Surveys:
+## Content
+- [Related Surveys](https://github.com/Alab-NII/chain-of-thought/blob/main/README.md#related-surveys)
+- [Two main types of CoTs](https://github.com/Alab-NII/chain-of-thought/blob/main/README.md#two-main-types-of-cots)
+- [Why CoT works? - Analysis of CoT](https://github.com/Alab-NII/chain-of-thought/blob/main/README.md#why-cot-works---analysis-of-cot)
+- [CoT Evaluation](https://github.com/Alab-NII/chain-of-thought/blob/main/README.md#cot-evaluation)
+- [Other types of CoTs](https://github.com/Alab-NII/chain-of-thought/blob/main/README.md#other-types-of-cots)
+
+## Related Surveys
 |First release time|Title|Conference|
 |---|---| --- |
 | 19 Dec 2022 | [Reasoning with Language Model Prompting: A Survey](https://arxiv.org/abs/2212.09597)  | ACL 2023   |
@@ -9,7 +16,7 @@ Summarize and classify related papers about CoT
 |   4 Jan 2023  |  [Iterated Decomposition: Improving Science Q&A by Supervising Reasoning Processes](https://arxiv.org/abs/2301.01751)   |  arXiv   |
 |  15 Feb 2023   |  [Augmented Language Models: a Survey](https://arxiv.org/pdf/2302.07842.pdf)   |  arXiv   |
 
-## Two main types of CoTs:
+## Two main types of CoTs
 ### Zero-shot:
 |First release time|Title|Conference|
 |---|---| --- |
@@ -50,7 +57,7 @@ Summarize and classify related papers about CoT
 |  24 Feb 2023   |  [Automatic Prompt Augmentation and Selection with Chain-of-Thought from Labeled Data](https://arxiv.org/abs/2302.12822)   |   arXiv |
 
 
-## Why CoT works? - Analysis of CoT:
+## Why CoT works? - Analysis of CoT
 |First release time|Title|Conference|
 |---|---| --- |
 |  16 Sep 2022   |  [Text and Patterns: For Effective Chain of Thought, It Takes Two to Tango](https://arxiv.org/abs/2209.07686)   |  Google Research   |
@@ -59,9 +66,9 @@ Summarize and classify related papers about CoT
 |  20 Dec 2022   |   [Towards Understanding Chain-of-Thought Prompting: An Empirical Study of What Matters](https://aclanthology.org/2023.acl-long.153/)  |  ACL 2023   |
 
 
-## CoT Evaluation: 
+## CoT Evaluation
 
-## Other types of CoTs:
+## Other types of CoTs
 |First release time|Title|Conference|
 |---|---| --- |
 |  22 Nov 2022    |  [Program of Thoughts Prompting: Disentangling Computation from Reasoning for Numerical Reasoning Tasks](https://arxiv.org/abs/2211.12588)   |   arXiv   |
