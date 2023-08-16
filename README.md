@@ -64,7 +64,7 @@ Summarize and classify related papers about CoT
 ## Other types of CoTs:
 |First release time|Title|Conference|
 |---|---| --- |
-|      |  []()   |      |
-|      |   []()  |      |
-|      |   []()  |      |
-|      |   []()  |      |
+|  22 Nov 2022    |  [Program of Thoughts Prompting: Disentangling Computation from Reasoning for Numerical Reasoning Tasks](https://arxiv.org/abs/2211.12588)   |   arXiv   |
+|  9 May 2023    |   [MoT: Pre-thinking and Recalling Enable ChatGPT to Self-Improve with Memory-of-Thoughts](https://arxiv.org/abs/2305.05181)  |    arXiv  |
+|   17 May 2023   |   [Tree of Thoughts: Deliberate Problem Solving with Large Language Models](https://arxiv.org/abs/2305.10601)  |  arXiv    |
+|   28 May 2023   |   [Tab-CoT: Zero-shot Tabular Chain of Thought](https://arxiv.org/abs/2305.17812)  |  ACL 23 Findings    |
