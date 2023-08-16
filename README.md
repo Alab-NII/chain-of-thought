@@ -1,2 +1,70 @@
-# chain-of-thought
-Research papers about Chain of Thought (CoT)
+# Chain-of-thought
+Summarize and classify related papers about CoT
+
+## Related Surveys:
+|First release time|Title|Conference|
+|---|---| --- |
+| 19 Dec 2022 | [Reasoning with Language Model Prompting: A Survey](https://arxiv.org/abs/2212.09597)  | ACL 2023   |
+|  20 Dec 2022   |  [Towards Reasoning in Large Language Models: A Survey](https://arxiv.org/abs/2212.10403)   |  ACL 23 Findings   |
+|   4 Jan 2023  |  [Iterated Decomposition: Improving Science Q&A by Supervising Reasoning Processes](https://arxiv.org/abs/2301.01751)   |  arXiv   |
+|  15 Feb 2023   |  [Augmented Language Models: a Survey](https://arxiv.org/pdf/2302.07842.pdf)   |  arXiv   |
+
+## Two main types of CoTs:
+### Zero-shot:
+|First release time|Title|Conference|
+|---|---| --- |
+|  24 May 2022  | [Large Language Models are Zero-Shot Reasoners](https://arxiv.org/abs/2205.11916)   |  NeurIPS2022  |
+|  3 Nov 2022  |  [Large Language Models Are Human-Level Prompt Engineers](https://arxiv.org/abs/2211.01910)  |  ICLR 23  |
+|  6 May 2023 |  [Plan-and-Solve Prompting: Improving Zero-Shot Chain-of-Thought Reasoning by Large Language Models](https://arxiv.org/abs/2305.04091)  |  ACL 23  |
+
+### Few-shot: five sub-groups
+- Related to code generation
+- Auto CoT
+- Iterative prompt CoT
+- Involve question decomposition
+- Mix
+
+#### Related to code generation
+|First release time|Title|Conference|
+|---|---| --- |
+ |  13 Oct 2022  | [Language models of code are few-shot commonsense learners](https://aclanthology.org/2022.emnlp-main.90.pdf)  |  EMNLP 2022  |
+| 18 Nov 2022   | [PAL: Program-aided Language Models](https://arxiv.org/pdf/2211.10435.pdf)  |  ICML 2023  |
+|  22 Nov 2022  | [Program of Thoughts Prompting: Disentangling Computation from Reasoning for Numerical Reasoning Tasks](https://arxiv.org/abs/2211.12588)  |  arXiv  |
+
+
+#### Involve question decomposition
+|First release time|Title|Conference|
+|---|---| --- |
+|  15 May 2022    |  [SeqZero: Few-shot Compositional Semantic Parsing with Sequential Prompts and Zero-shot Models](https://aclanthology.org/2022.findings-naacl.5/)   |   Findings of NAACL 2022    |
+|   19 May 2022   |  [Selection-Inference: Exploiting Large Language Models for Interpretable Logical Reasoning](https://arxiv.org/abs/2205.09712)   |   arXiv    |
+|  21 May 2022    |  [Least-to-Most Prompting Enables Complex Reasoning in Large Language Models](https://arxiv.org/abs/2205.10625)   |    ICLR 2023   |
+|  5 Oct 2022    |  [Decomposed Prompting: A Modular Approach for Solving Complex Tasks ](https://arxiv.org/pdf/2210.02406.pdf)   |     ICLR 2023   |
+|   7 Oct 2022   |  [Measuring and Narrowing the Compositionality Gap in Language Models](https://arxiv.org/pdf/2210.03350.pdf)   |    arXiv   |
+|  8 Dec 2022    |  [Successive Prompting for Decomposing Complex Questions](https://aclanthology.org/2022.emnlp-main.81.pdf)   |    EMNLP 2022   |
+
+
+#### Auto CoT
+|First release time|Title|Conference|
+|---|---| --- |
+|  7 Oct 2022   |  [Automatic Chain of Thought Prompting in Large Language Models](https://arxiv.org/abs/2210.03493)   |   ICLR 23    |
+|  24 Feb 2023   |  [Automatic Prompt Augmentation and Selection with Chain-of-Thought from Labeled Data](https://arxiv.org/abs/2302.12822)   |   arXiv |
+
+
+## Why CoT works? - Analysis of CoT:
+|First release time|Title|Conference|
+|---|---| --- |
+|  16 Sep 2022   |  [Text and Patterns: For Effective Chain of Thought, It Takes Two to Tango](https://arxiv.org/abs/2209.07686)   |  Google Research   |
+|  3 Oct 2022   |  [Language Models Are Greedy Reasoners: A Systematic Formal Analysis of Chain-of-Thought](https://arxiv.org/abs/2210.01240)   |   ICLR 2023   |
+|   25 Nov 2022  |   [Complementary Explanations for Effective In-Context Learning](https://aclanthology.org/2023.findings-acl.273/)  |  ACL 2023 (Findings)   |
+|  20 Dec 2022   |   [Towards Understanding Chain-of-Thought Prompting: An Empirical Study of What Matters](https://aclanthology.org/2023.acl-long.153/)  |  ACL 2023   |
+
+
+## CoT Evaluation: 
+
+## Other types of CoTs:
+|First release time|Title|Conference|
+|---|---| --- |
+|      |  []()   |      |
+|      |   []()  |      |
+|      |   []()  |      |
+|      |   []()  |      |
