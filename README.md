@@ -3,7 +3,7 @@ Summarize and classify related papers about CoT.
 
 ## Original work on CoT:
 - First release time: 28 Jan 2022
-- Title: Chain-of-Thought Prompting Elicits Reasoning in Large Language Models
+- Title: [Chain-of-Thought Prompting Elicits Reasoning in Large Language Models](https://arxiv.org/abs/2201.11903)
 - Conference: NeurIPS 2022
 
 ## Content
