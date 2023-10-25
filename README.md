@@ -25,6 +25,7 @@ Summarize and classify related papers about CoT.
 
 ## COT Enhancement
 |First release time|Title|What Changes?|
+|---|---| --- |
 |21 Mar 2022| [Self-Consistency Improves Chain of Thought Reasoning in Language Models](https://arxiv.org/abs/2203.11171)| naive greedy decoding => self-consistency |
 
 ## Two main types of CoTs
