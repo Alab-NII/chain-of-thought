@@ -8,6 +8,7 @@ Summarize and classify related papers about CoT.
 
 ## Content
 - [Related Surveys](https://github.com/Alab-NII/chain-of-thought/blob/main/README.md#related-surveys)
+- [COT Enhancement](https://github.com/Alab-NII/chain-of-thought/blob/main/README.md#cot-enhancement)
 - [Two main types of CoTs](https://github.com/Alab-NII/chain-of-thought/blob/main/README.md#two-main-types-of-cots)
 - [Why CoT works? - Analysis of CoT](https://github.com/Alab-NII/chain-of-thought/blob/main/README.md#why-cot-works---analysis-of-cot)
 - [CoT Evaluation](https://github.com/Alab-NII/chain-of-thought/blob/main/README.md#cot-evaluation)
@@ -22,6 +23,9 @@ Summarize and classify related papers about CoT.
 |  20 Dec 2022   |  [Towards Reasoning in Large Language Models: A Survey](https://arxiv.org/abs/2212.10403)   |  ACL 23 Findings   |
 | 19 Dec 2022 | [Reasoning with Language Model Prompting: A Survey](https://arxiv.org/abs/2212.09597)  | ACL 2023   |
 
+## COT Enhancement
+|First release time|Title|What Changes?|
+|21 Mar 2022| [Self-Consistency Improves Chain of Thought Reasoning in Language Models](https://arxiv.org/abs/2203.11171)| naive greedy decoding => self-consistency |
 
 ## Two main types of CoTs
 ### Zero-shot:
