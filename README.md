@@ -55,10 +55,10 @@ Summarize and classify related papers about CoT.
 |First release time|Title|Conference|
 |---|---| --- |
 |  8 Dec 2022    |  [Successive Prompting for Decomposing Complex Questions](https://aclanthology.org/2022.emnlp-main.81.pdf)   |    EMNLP 2022   |
-|   7 Oct 2022   |  [Measuring and Narrowing the Compositionality Gap in Language Models](https://arxiv.org/pdf/2210.03350.pdf)   |    arXiv   |
+|   7 Oct 2022   |  [Measuring and Narrowing the Compositionality Gap in Language Models](https://arxiv.org/pdf/2210.03350.pdf)   |    EMNLP 2023 (Findings)   |
 |  5 Oct 2022    |  [Decomposed Prompting: A Modular Approach for Solving Complex Tasks ](https://arxiv.org/pdf/2210.02406.pdf)   |     ICLR 2023   |
 |  21 May 2022    |  [Least-to-Most Prompting Enables Complex Reasoning in Large Language Models](https://arxiv.org/abs/2205.10625)   |    ICLR 2023   |
-|   19 May 2022   |  [Selection-Inference: Exploiting Large Language Models for Interpretable Logical Reasoning](https://arxiv.org/abs/2205.09712)   |   arXiv    |
+|   19 May 2022   |  [Selection-Inference: Exploiting Large Language Models for Interpretable Logical Reasoning](https://arxiv.org/abs/2205.09712)   |   ICLR 2023    |
 |  15 May 2022    |  [SeqZero: Few-shot Compositional Semantic Parsing with Sequential Prompts and Zero-shot Models](https://aclanthology.org/2022.findings-naacl.5/)   |   Findings of NAACL 2022    |
 
 
